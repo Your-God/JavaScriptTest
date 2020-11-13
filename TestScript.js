@@ -1,1 +1,4 @@
-alert("Success!")
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Paragraph changed.";
+  alert("Success!");
+}
